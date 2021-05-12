@@ -1,4 +1,2 @@
-Hello
-Good evening
-See you
+hoge hoge
 
